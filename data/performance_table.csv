@@ -1,0 +1,12 @@
+Parameter,Value,Unit,Conditions
+PCE,20.1,%,50 W/m², -145°C
+Eclipse_Power,9.2,μW/cm²,After 1-hr charge
+Jsc,220,μA/cm²,50 W/m²
+Voc,0.89,V,50 W/m², -145°C
+FF,79,%,Low light
+Radiation_Retention,88,%,After 1e14 p+/cm2
+Mass_Efficiency,0.9,g/W,
+Operating_Temp,-145 to +100,°C,
+Cryo_Cycles,100,,No degradation
+Magnetic_Field_Tolerance,20000,x Earth,
+TRL,6,,
