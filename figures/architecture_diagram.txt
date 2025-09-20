@@ -1,0 +1,38 @@
+==============================================
+ JOVIANEYE-QDSC DEVICE ARCHITECTURE
+==============================================
+
+[ Top: MgF2 ARC (5nm) ]
+        |
+[ HTL: NiOx (5nm) / MoOx (3nm) + 1% rGO ]
+        |
+[ QD Stack (120nm) ]
+   → Top: Rb0.1Cs0.9PbBr3 @ 6.5nm (24nm)
+   → Mid: CISGZ @ 2.5nm (48nm)
+   → Bot: CISGZ @ 5.0nm (48nm) ← optimized for Jupiter spectrum
+        |
+[ pSBMA Cryo-Buffer (2nm) ]
+        |
+[ LiF Interlayer (1nm) ]
+        |
+[ ETL: Ti:ZnMgO + UV-GO (50nm) ]
+        |
+[ SiOx Stress Buffer (3nm) ]
+        |
+[ ➤ MXene Supercap Electrode (20nm) ]
+        |
+[ ➤ LiPON Electrolyte (10nm) ]
+        |
+[ ➤ Al2O3 Separator (5nm) ]
+        |
+[ AZO + Laser Grid (300nm) ]
+        |
+[ Permalloy Mesh (5nm) ] ← magnetic shielding
+        |
+[ Kapton Substrate (50μm) ]
+        |
+[ Ag Nanodomes (30nm) ] ← back reflector
+
+→ Eclipse power: Charges during sun, discharges in dark via integrated circuit.
+→ All layers radiation-hard and cryo-stable.
+→ Total thickness < 1μm.
